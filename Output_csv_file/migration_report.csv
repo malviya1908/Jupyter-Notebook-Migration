@@ -1,0 +1,7 @@
+owner,file_creation_time,full_path,size_bytes,kernel_name,original_kernel_version,migrated_kernel_version,file_extension,total_cells,times_executed,last_execution_count
+Rahul Malviya,2025-09-12 00:06:56.947602,D:\Paypal Migration Project\Jupyter Migration Project\product_A\analysis.ipynb,948,python3,3.5.0,3.7.0,.ipynb,1,0,
+Rahul Malviya,2025-09-12 00:07:18.488813,D:\Paypal Migration Project\Jupyter Migration Project\product_A\exploration.ipynb,972,python3,3.5.0,3.7.0,.ipynb,1,0,
+Rahul Malviya,2025-09-12 00:08:11.915240,D:\Paypal Migration Project\Jupyter Migration Project\product_B\team1\etl.ipynb,788,python3,3.5.0,3.7.0,.ipynb,1,0,
+Rahul Malviya,2025-09-12 00:08:35.031760,D:\Paypal Migration Project\Jupyter Migration Project\product_B\team2\visualize.ipynb,881,python3,3.5.0,3.7.0,.ipynb,1,0,
+Rahul Malviya,2025-09-12 00:08:52.290868,D:\Paypal Migration Project\Jupyter Migration Project\product_C\data_cleaning.ipynb,836,python3,3.5.0,3.7.0,.ipynb,1,0,
+Rahul Malviya,2025-09-12 00:09:11.941599,D:\Paypal Migration Project\Jupyter Migration Project\product_C\metrics.ipynb,825,python3,3.5.0,3.7.0,.ipynb,1,0,
