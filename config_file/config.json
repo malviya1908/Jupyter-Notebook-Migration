@@ -1,0 +1,7 @@
+{
+  "LOCAL_NOTEBOOK_DIR": "D:\\Paypal Migration Project\\Jupyter Migration Project",
+  "BUCKET_NAME": "jupyter-notebooks-bucket",
+  "SERVICE_ACCOUNT_FILE": "D:\\Grow Data Skills GCP\\phonic-palace-471817-i8-0d6df02f69ce.json",
+  "TARGET_KERNEL_VERSION": "3.7.0",
+  "OUTPUT_CSV": "D:\\Paypal Migration Project\\Output_csv_file\\migration_report.csv"
+}
