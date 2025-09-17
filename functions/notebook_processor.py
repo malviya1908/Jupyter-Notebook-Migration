@@ -39,7 +39,7 @@ def process_all_notebooks(config):
 
         file_counter = 0
         for file in files:
-            if file.endswith(".ipynb") and "migrated" not in root:
+            if file.endswith(".ipynb") :
                 file_counter += 1
                 total_files += 1
                 local_path = os.path.join(root, file)
@@ -88,4 +88,5 @@ def process_all_notebooks(config):
     print(f"Total notebooks processed/migrated: {total_files}")
 
     return df
+
 
